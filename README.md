@@ -1,7 +1,7 @@
 # Mech105-Algorithm
 Algorithms I created on MATLAB for different numerical methods 
 
-#Algorithms I created
+##Algorithms I created
 
 **Binary Converter**
 In this algorithm, I designed a code for MATLAB to turn any ordinary base 10 number into a base 2 number
