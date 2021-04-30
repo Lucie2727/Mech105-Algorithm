@@ -1,5 +1,5 @@
 # Mech105-Algorithm
-Algorithms I created on MATLAB for different numerical methods 
+These are the algorithms I created with MATLAB for Mech105 for different numerical methods 
 
 ## Algorithms I created
 
