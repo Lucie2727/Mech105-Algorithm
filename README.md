@@ -8,7 +8,7 @@ These are the algorithms I created with MATLAB for Mech105 for different numeric
 In this algorithm, I designed a code for MATLAB to turn any ordinary base 10 number into a base 2 number.
 
 *Inputs*
--a base 10 number
+-base 10 number
 
 *Outputs*
 -the same inputed number but in base two 
@@ -52,7 +52,7 @@ This algorithm is a numberical meathod related to the Trapizoidal Rule that take
 *Inputs*
 - an x vector (equaly space independent variable) 
 - a y vector (funciton values with respect to x)
-- 
+
 *Outputs*
 - the numerical integral of the given function over the given points
 
