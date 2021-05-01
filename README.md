@@ -6,9 +6,13 @@ These are the algorithms I created with MATLAB for Mech105 for different numeric
 **Binary Converter**
 
 In this algorithm, I designed a code for MATLAB to turn any ordinary base 10 number into a base 2 number.
+
 *Inputs*
+
 -a base 10 number
+
 *Outputs*
+
 -the same inputed number but in base two 
 
 **False Position**
