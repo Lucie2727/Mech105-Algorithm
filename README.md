@@ -9,11 +9,11 @@ In this algorithm, I designed a code for MATLAB to turn any ordinary base 10 num
 
 *Inputs*
 
--base 10 number
+- base 10 number
 
 *Outputs*
 
--the same inputed number but in base two 
+- the same inputed number but in base two 
 
 **False Position**
 
@@ -21,19 +21,19 @@ This algorithm is a root finding meathod for a function that takes two initial g
 
 *Inputs*
 
--a function 
--a lower guess 
--an upper guess 
--a relative error
--max number of iterations
--any other parameters used by the funciton
+- a function 
+- a lower guess 
+- an upper guess 
+- a relative error
+- max number of iterations
+- any other parameters used by the funciton
 
 *Outputs*
 
--the estimated root location
--the fuction evaluated at the root location
--the approximate relative error
--how many iterations were performed
+- the estimated root location
+- the fuction evaluated at the root location
+- the approximate relative error
+- how many iterations were performed
 
 
 **LU Factorization**
@@ -41,14 +41,12 @@ This algorithm is a root finding meathod for a function that takes two initial g
 This algorithm takes a matrix and pulls it apart to create new matrices from it that tell you information about the system of equations you are presented with. This algorithm preforms linear algebra for you so you don't have to. It takes a matrix and factors it into an upper triangular matrix and a lower triangular matrix. It then uses both of these matrices with different substitution techniques to solve the system of equations for the coefficients in the A matrix that you inputed. This algorithm also pivots the coefficient matrix if needed so it can perform the decomposition. 
 
 *Inputs*
-
--a coefficient matrix, A
+- a coefficient matrix, A
 
 *Outputs*
-
--lower triangular matrix (with 1's along the diagonals)
--the upper triangular matrix 
--the pivot matrix
+- lower triangular matrix (with 1's along the diagonals)
+- the upper triangular matrix 
+- the pivot matrix
 
 
 **Simpson 1/3 Rule**
