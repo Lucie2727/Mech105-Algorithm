@@ -7,6 +7,6 @@ These are the algorithms I created with MATLAB for Mech105 for different numeric
 
 2. False Position
 
-3.LU Factorization
+3. LU Factorization
 
 4. Simpson 1/3 Rule
