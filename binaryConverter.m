@@ -5,7 +5,6 @@ function [base2] = binaryConverter(base10)
 %   Outputs:
 %       base2 - The base10 number converted to binary
 num=2;
-base10=8  %say #here
 sum=base10;
 remainder=0;
 i=1;
