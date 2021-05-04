@@ -7,10 +7,7 @@ function [L, U, P] = luFactor(A)
 %	L = lower triangular matrix
 %	U = upper triangular matrix
 %       P = the permutation matrix
-%A =[9 8 7; 6 5 8; 12 56 4]  %COEFF MATRIX IMPUT 
-%b=[] another input 
-%x=A\b                                            %% all put in command 
-%test the function:::: [L, U, P] = luFactor(A)
+
 row =length(A);
 L=eye(row)
 U=zeros(row)
